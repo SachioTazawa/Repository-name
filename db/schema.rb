@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20210609104331) do
+ActiveRecord::Schema.define(version: 20210612143452) do
 
 # Could not dump table "users" because of following StandardError
 #   Unknown type 'sstring' for column 'password_digest'
